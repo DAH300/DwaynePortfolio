@@ -2,7 +2,7 @@
 
 const projects = [
     {
-        href: "https://github.com/DAH300/da-portfolio-docker",
+        href: "https://github.com/DAH300/DwaynePortfolio",
         title: "Portfolio Site (This!)",
         description:
             "Full-stack personal site built with Next.js 15, Tailwind CSS, and Docker. Features hot reloading in development and automatic redeployment on every GitHub commit via CI/CD pipeline.",
